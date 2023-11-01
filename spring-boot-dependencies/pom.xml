@@ -46,7 +46,7 @@
 	</developers>
 	<properties>
 		<!-- Dependency versions -->
-		<activemq.version>5.14.3</activemq.version>
+		<activemq.version>5.15.16</activemq.version>
 		<antlr2.version>2.7.7</antlr2.version>
 		<appengine-sdk.version>1.9.48</appengine-sdk.version>
 		<artemis.version>1.5.2</artemis.version>
@@ -75,7 +75,7 @@
 		<embedded-mongo.version>1.50.5</embedded-mongo.version>
 		<flyway.version>4.0.3</flyway.version>
 		<freemarker.version>2.3.25-incubating</freemarker.version>
-		<elasticsearch.version>2.4.4</elasticsearch.version>
+		<elasticsearch.version>7.17.13</elasticsearch.version>
 		<glassfish-el.version>3.0.0</glassfish-el.version>
 		<gradle.version>2.9</gradle.version>
 		<groovy.version>2.4.7</groovy.version>
