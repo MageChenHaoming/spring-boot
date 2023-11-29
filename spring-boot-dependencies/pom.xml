@@ -126,7 +126,7 @@
 		<lettuce.version>5.0.0.Beta1</lettuce.version>
 		<liquibase.version>3.5.3</liquibase.version>
 		<log4j2.version>2.7</log4j2.version>
-		<logback.version>1.1.9</logback.version>
+		<logback.version>1.4.12</logback.version>
 		<lombok.version>1.16.12</lombok.version>
 		<mariadb.version>1.5.7</mariadb.version>
 		<mssql-jdbc.version>6.1.0.jre8</mssql-jdbc.version>
@@ -185,7 +185,7 @@
 		<thymeleaf-layout-dialect.version>2.1.2</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.0.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>8.5.11</tomcat.version>
+		<tomcat.version>8.5.96</tomcat.version>
 		<undertow.version>1.4.8.Final</undertow.version>
 		<unboundid-ldapsdk.version>3.2.1</unboundid-ldapsdk.version>
 		<webjars-hal-browser.version>9f96c74</webjars-hal-browser.version>
